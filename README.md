@@ -11,7 +11,6 @@
 ---
 
 ## 👨‍💻 About Me
-
 I'm a self-learning software developer from Egypt 🇪🇬  
 Currently focusing on:
 
@@ -45,11 +44,12 @@ I’m building desktop applications and improving my programming fundamentals st
 
 ## 💻 Featured Projects
 
-- 🏦 Banking System 
-- 🏦 Banking System Full Version (Using OOP)
-- 🏧 ATM System
-- 🎮 Rock Paper Scissors Game
-- 🧮 Math Game
+### ⚙️ C++ Projects (Foundations)
+- 🏦 [**Bank System Full Version (Using OOP)**](https://github.com/MohamedOSorour/Bank-System-Full-Version-OOP-)
+- 🏦 [**Bank System**](https://github.com/MohamedOSorour/Bank-System-2nd-Version)
+- 🏧 [**ATM System**](https://github.com/MohamedOSorour/Project-3-ATM)  
+- 🎮 [**Math Game**](https://github.com/MohamedOSorour/Project-2-Math-Game)  
+- 🧮 [**Rock Paper Scissors**](https://github.com/MohamedOSorour/Project-1-Rock-Paper-Scissors)
 
 ---
 
@@ -66,13 +66,13 @@ I’m building desktop applications and improving my programming fundamentals st
 
 ## 📫 Contact Me
 
-- LinkedIn: https://www.linkedin.com/in/mohamed-sorour-685ba7277/?skipRedirect=true
-- Email: mosorour87@gmail.com
+- **LinkedIn:** [Mohamed Sorour](https://www.linkedin.com/in/mohamed-sorour-685ba7277/)
+- **Email:** mosorour87@gmail.com
 
 ---
 
 ```cpp
-class MohamedOsama
+class MohamedSorour
 {
     string goal = "Become a Software Engineer";
     string focus = "C# .NET & Problem Solving";
